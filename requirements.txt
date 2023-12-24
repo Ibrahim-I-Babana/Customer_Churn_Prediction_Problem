@@ -1,16 +1,17 @@
-matplotlib                3.8.0
+matplotlib                3.8.0 --For visualizations 
 mysql-connector-python    8.1.0
-numpy                     1.25.2
-pandas                    2.1.0
+numpy                     1.25.2--For data manipulation
+pandas                    2.1.0 --For data manipulation
 pip                       23.3.1
 pyodbc                    5.0.1
 pytest                    7.4.3
 python-dotenv             1.0.0
 scikit-learn              1.3.1
-seaborn                   0.13.0
+seaborn                   0.13.0 --For visualizations
 SQLAlchemy                2.0.21
 scipy                     1.11.3
-sklearn                   0.0.post9
+sklearn                   0.0.post9 --Machine learning Packages
 pytest                    7.4.3
 pandas-profiling          3.6.6
 forex-python              1.8
+imbalanced-learn          0.11.0 --Machine learning Packages
