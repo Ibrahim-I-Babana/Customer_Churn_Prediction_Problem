@@ -1,5 +1,7 @@
 README.md
 
+*This README.md file provides a comprehensive overview of the customer churn prediction project, from data exploration and hypothesis testing to model development, evaluation, and deployment. It serves as a guide for users and stakeholders, summarising key findings and offering insights for business decision-making*
+
 Predicting Customer Churn: A Data-Driven Approach
 
 
@@ -151,7 +153,3 @@ seaborn                   0.13.0 --For visualizations
 scipy                     1.11.3 --For statistical analysis
 
 sklearn                   0.0.post9 --Machine learning Packages
-
-imbalanced-learn          0.11.0 --Machine learning Packages
-
-This README.md file provides a comprehensive overview of the customer churn prediction project, from data exploration and hypothesis testing to model development, evaluation, and deployment. It serves as a guide for users and stakeholders, summarising key findings and offering insights for business decision-making
