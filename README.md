@@ -6,17 +6,21 @@ Predicting Customer Churn: A Data-Driven Approach
 
 
 Introduction
+
 Customer churn, the rate at which customers stop using a product or service, is a significant challenge for businesses. This project employs machine learning to predict and analyze customer churn, providing actionable insights for businesses. This README.md file summarizes key findings and concepts.
 
 Project Overview
+
 The project focuses on a telecommunications company, aiming to understand and predict customer churn. Following the CRISP-DM methodology, a machine-learning pipeline was developed for accurate churn prediction.
 
 Data
+
 Dataset: 5,000 records with attributes like gender, tenure, internet service type, payment method, and churn status.
 
 Data Preparation: Rigorous cleaning and preprocessing ensured data reliability.
 
 Exploration and Hypothesis
+
 Data Understanding: Explored diverse customer information for a comprehensive view of behaviour.
 
 Hypothesis: We tested the relationship between total charges and churn using Kruskal-Wallis test.
